@@ -1,5 +1,6 @@
 Prototype with sample image
 imds = imageDatastore("C:\Users\Subhendu\Desktop\samplemaskimage.jpeg")
+//you can choose your own image
 
 Download Caffe model and protofile for face detection
 modelFolder = 'models';
